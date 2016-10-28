@@ -7,6 +7,10 @@ Nook is a mobile-friendly, single page web application that finds nearby study s
 The user can search by address, city, or place using the Google Autocomplete input box. The app then displays each study spot along with a photo, whether it is currently open or not, link to the Google url (for directions or more detailed information), and website, if applicable.
 
 ## Screenshots
+![Home page](img/homepage.png)
+![Autocomplete](img/autocomplete.png)
+![Map](img/map.png)
+![Results](img/results.png)
 
 ## Future Features
 * Add more study locations (i.e. public parks)
