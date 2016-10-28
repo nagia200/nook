@@ -8,8 +8,11 @@ The user can search by address, city, or place using the Google Autocomplete inp
 
 ## Screenshots
 ![Home page](img/homepage.png)
+---
 ![Autocomplete](img/autocomplete.png)
+---
 ![Map](img/map.png)
+---
 ![Results](img/results.png)
 
 ## Future Features
