@@ -20,7 +20,7 @@ The user can search by address, city, or place using the Google Autocomplete inp
 > Hovering over the Website button in one of the search results
 
 ## Challenges
-Overall, the Google Maps API was intuitive and easy to use (thanks to the documentation and plenty of examples). My main challenge was how to avoid going over the request query limit for the location url and websites. My two main choices were to a) use a setTimeOut to delay requests once the limit was reached, or b) run the service only after an event (such as the user clicking on a location, and then the location expanding to display the link and website buttons). I decided to go with the first because immediately displaying the "Directions" and "Website" buttons is more intuitive than b) from a usability standpoint.
+Overall, the Google Maps API was intuitive and easy to use (thanks to the documentation and plenty of examples). My main challenge was how to avoid going over the request query limit for the location url and websites. My two main choices were to a) use setTimeout to delay requests once the limit was reached, or b) run the service only after an event (such as the user clicking on a location, and then the location expanding to display the link and website buttons). I decided to go with the first because immediately displaying the "Directions" and "Website" buttons is more intuitive than option b) from a usability standpoint.
 
 ## Future Features
 * Add more study locations (i.e. public parks)
